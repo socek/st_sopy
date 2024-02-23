@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "SoPy: Test Class Snippet",
+        "command": "test_cls_snippet"
+    },
+    {
+        "caption": "SoPy: Mock Snippet",
+        "command": "mock_snippet"
+    },
+    {
+        "caption": "SoPy: Import Snippet",
+        "command": "import_snippet"
+    }
+]
